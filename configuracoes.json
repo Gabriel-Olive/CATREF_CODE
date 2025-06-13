@@ -63,6 +63,7 @@
     "S": "SOLDERED, BRAZED",
     "V": "VICTAULIC",
     "Z": "COMPRESSION",
+    "0": "NONE",
     "1": "PLAIN",
     "2": "BEVEL (BUTT WELD)",
     "3": "SOCKET WELD",
